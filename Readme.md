@@ -4,13 +4,21 @@
 
 **Backend created by [Fernando Mengali](https://www.linkedin.com/in/fernando-mengali-273504142/)**
 
-YrpreyTasks is a framework based financial management systems. The framework perfectly simulates a tasks system that can help a user in managing taks and actions, but it has vulnerabilities based on OWASP TOP 10 WebApp 2021. The framework was developed to teach and learn details in Pentest (testing penetration) and Application Security. In the context of Offensive Security, vulnerabilities contained in web applications can be identified, exploited and compromised. For application security professionals and experts, the framework provides an in-depth understanding of code-level vulnerabilities. Yrprey, making it valuable for educational, learning and teaching purposes in the field of Information Security. For more information about the vulnerabilities, we recommend exploring the details available at [yrprey.com](https://yrprey.com).
+YrpreyTasks is a framework based tasks management systems. The framework perfectly simulates a tasks system that can help a user in managing taks and actions, but it has vulnerabilities based on OWASP TOP 10 WebApp 2021. The framework was developed to teach and learn details in Pentest (testing penetration) and Application Security. In the context of Offensive Security, vulnerabilities contained in web applications can be identified, exploited and compromised. For application security professionals and experts, the framework provides an in-depth understanding of code-level vulnerabilities. Yrprey, making it valuable for educational, learning and teaching purposes in the field of Information Security. For more information about the vulnerabilities, we recommend exploring the details available at [yrprey.com](https://yrprey.com).
 
 #### Features
  - Based on OWASP's top 10 vulnerabilities for Web Application.
 
 Initially, a non-registered user only has access to the index.php page. The user can authenticate to the system with the credentials admin@yrprey.com and the password 1234567890. Functionalities include adding tasks, edit and removals.
 yrprey tasks is not recommended for personal or commercial use, only for laboratory use and learning about exploiting and patching vulnerabilities.
+
+## The framework was written with the following technologies:
+
+* 1º - PHP
+* 2º - Bootstrap
+* 3º - JavaScript
+* 4º - MySQL
+* 5º - Ajax
 
 #### List of Vulnerabilities
 
